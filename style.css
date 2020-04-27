@@ -39,10 +39,10 @@
 }
 .image{
     width: 100%;
-    height: 100vh;
-    background: url("../images/background.png") center no-repeat;
+    height: 200px;
+    background: url("images/yummy.png") center no-repeat;
     background-size: cover;
-    margin-top: 5rem;
+
 }
 .circle-1{
     height: 9rem;
@@ -72,13 +72,7 @@
     margin-right: auto;
     font-size: 24pt;
 }
-.image{
-    width: 100%;
-    height: 100vh;
-    background: url("images/background.png") center no-repeat;
-    background-size: cover;
-    margin-top: 5rem;
-}
+
 .new-product{
     padding: 25px;
     padding-bottom: 0;
