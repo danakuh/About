@@ -204,6 +204,23 @@ footer p{
     left: 0;
   }
 
+  aside{
+    background-color: #efedee;
+    height: 500px;
+    padding: 50px;
+    text-align: center;
+    margin-right: 10px;
+}
+@media screen and (max-width:1200px){
+    aside{
+        height: 600px;
+    }
+}
+@media screen and (max-width:992px){
+    aside p{
+        line-height: 25pt;
+    }
+}
   @media screen and (max-width:480px){
         .circle-1{
             height: 5rem;
